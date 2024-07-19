@@ -1,0 +1,323 @@
+.login-signup-inner {
+  left: 0;
+  background-color: var(--color-black);
+  width: 1920px;
+}
+.ellipses-icon4,
+.group-child11,
+.login-signup-inner {
+  position: absolute;
+  top: 0;
+  height: 1080px;
+}
+.ellipses-icon4 {
+  left: 10px;
+  width: 1920px;
+  opacity: 0.5;
+}
+.group-child11 {
+  left: 0;
+  background-color: var(--color-gray-1500);
+  width: 1420px;
+}
+.cpt10,
+.go10 {
+  position: absolute;
+  width: 61.63%;
+  top: 0;
+  left: 38.37%;
+  display: flex;
+  align-items: flex-end;
+  text-shadow: 2px 0 0#2b3a63, 0 2px 0#2b3a63, -2px 0 0#2b3a63, 0-2px 0#2b3a63;
+}
+.go10 {
+  width: 38.37%;
+  left: 0;
+  color: var(--color-violet);
+  text-shadow: 1px 0 0#f197f4, 0 1px 0#f197f4, -1px 0 0#f197f4, 0-1px 0#f197f4;
+}
+.gocpt-logo8 {
+  position: absolute;
+  height: 8.52%;
+  width: 14.75%;
+  top: 2.04%;
+  right: 55.82%;
+  bottom: 89.44%;
+  left: 29.43%;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.45);
+}
+.name4,
+.sign-up6 {
+  position: relative;
+  flex-shrink: 0;
+}
+.sign-up6 {
+  width: 700px;
+  font-size: var(--font-size-45xl);
+  text-align: center;
+  display: inline-block;
+  height: 106px;
+}
+.name4 {
+  width: 675px;
+  display: flex;
+  align-items: flex-end;
+  height: 60px;
+}
+.group-child12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gray-1900);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 700px;
+  height: 65px;
+}
+.name5 {
+  position: absolute;
+  top: 16.3px;
+  left: 19px;
+}
+.rectangle-parent14 {
+  width: 700px;
+  position: relative;
+  box-shadow: 0 0 25px #000;
+  backdrop-filter: blur(30px);
+  height: 65px;
+  font-size: var(--font-size-5xl);
+}
+.confirm-password8,
+.e-mail-address8 {
+  position: absolute;
+  top: calc(50% - 16.2px);
+  left: 19px;
+}
+.confirm-password8 {
+  top: calc(50% - 16px);
+  display: inline-block;
+  width: 339px;
+  height: 34px;
+}
+.confirm-password9 {
+  width: 675px;
+  position: relative;
+  color: var(--color-gray-1000);
+  display: flex;
+  align-items: flex-end;
+  height: 60px;
+  flex-shrink: 0;
+}
+.sign-up-child6 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  backdrop-filter: blur(25px);
+  border-radius: var(--br-3xs);
+  background: linear-gradient(180deg, #2b3a63, #b382d3);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  opacity: 0.6;
+}
+
+
+.sign-up-child7 {
+  position: absolute;
+  height: 82.61%;
+  width: 81.82%;
+  top: 8.7%;
+  right: 9.09%;
+  bottom: 8.7%;
+  left: 9.09%;
+  
+}
+.sign-up7 {
+  width: 139px;
+  position: relative;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+  height: 46px;
+}
+.signup-page2 {
+  position: absolute;
+  top: calc(50% - 408px);
+  left: calc(50% - 646px);
+  box-shadow: 0 0 45px rgba(0, 0, 0, 0.65);
+  backdrop-filter: blur(55px);
+  border-radius: var(--br-31xl);
+  background-color: var(--color-gray-1200);
+  border: 1px solid var(--color-gray-1100);
+  box-sizing: border-box;
+  width: 781.7px;
+  height: 900px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-jura);
+}
+.ellipses-container {
+  position: absolute;
+  top: 0;
+  left: 1920px;
+  width: 1930px;
+  height: 1080px;
+}
+.beats-icon4,
+.login-signup2,
+.loginn-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 3850px;
+  height: 1080px;
+}
+.beats-icon4,
+.loginn-child {
+  width: 1420px;
+}
+.beats-icon4 {
+  top: -457.5px;
+  left: -243.3px;
+  border-radius: var(--br-11xl);
+  width: 2329.4px;
+  height: 1863.8px;
+  object-fit: contain;
+  opacity: 0.75;
+}
+.loginpage-child {
+  border: 1px solid var(--color-white);
+  outline: 0;
+  font-family: var(--font-jura);
+  font-size: var(--font-size-5xl);
+  background-color: var(--color-gray-1900);
+  width: 700px;
+  position: relative;
+  box-shadow: 0 0 25px #000;
+  backdrop-filter: blur(30px);
+  border-radius: var(--br-mini);
+  box-sizing: border-box;
+  height: 65px;
+  padding: var(--padding-base-3) var(--padding-lgi) var(--padding-xl-7);
+  color: var(--color-white);
+}
+.forgot-password2 {
+  text-decoration: none;
+  width: 675px;
+  position: relative;
+  color: inherit;
+  display: flex;
+  align-items: flex-end;
+  height: 60px;
+  flex-shrink: 0;
+}
+.login-child11 {
+  position: absolute;
+  height: 82.61%;
+  width: 81.82%;
+  top: 8.7%;
+  right: 9.09%;
+  bottom: 8.7%;
+  left: 9.09%;
+ 
+}
+.login6 {
+  text-decoration: none;
+  width: 110px;
+  position: relative;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+  height: 46px;
+}
+.loginn-item,
+.loginpage2 {
+  position: absolute;
+  border: 1px solid var(--color-gray-1100);
+  box-sizing: border-box;
+}
+.loginpage2 {
+  top: calc(50% - 412px);
+  left: calc(50% - 640px);
+  box-shadow: 0 0 45px rgba(0, 0, 0, 0.65);
+  backdrop-filter: blur(55px);
+  border-radius: var(--br-31xl);
+  background-color: var(--color-gray-1200);
+  width: 780px;
+  height: 900px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-jura);
+}
+.loginn-item {
+  top: 0;
+  left: 1420px;
+  backdrop-filter: blur(30px);
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gray-2000);
+  width: 819px;
+  height: 1080px;
+}
+.dont-have-an {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  width: 299px;
+  text-shadow: 1px 0 0 rgba(255, 255, 255, 0.25),
+    0 1px 0 rgba(255, 255, 255, 0.25), -1px 0 0 rgba(255, 255, 255, 0.25),
+    0-1px 0 rgba(255, 255, 255, 0.25);
+}
+.sign-up8 {
+  text-decoration: none;
+  position: absolute;
+  top: 167px;
+  left: calc(50% - 69.5px);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+  border-radius: var(--br-11xl);
+  border: 1px solid var(--color-gray-1100);
+  box-sizing: border-box;
+  width: 139px;
+  height: 46px;
+}
+.dont-have-an-account-parent {
+  position: absolute;
+  top: 423px;
+  left: 1521px;
+  width: 299px;
+  height: 213px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-jura);
+}
+.gocpt-logo9 {
+  position: absolute;
+  height: 8.52%;
+  width: 14.82%;
+  top: 2.04%;
+  right: 55.59%;
+  bottom: 89.44%;
+  left: 29.58%;
+  box-shadow: 0 0 25px rgba(255, 255, 255, 0.5);
+}
+.loginn {
+  width: 100%;
+  position: relative;
+  height: 1080px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-45xl);
+  color: var(--color-darkslateblue-100);
+  font-family: var(--font-padyakke-expanded-one);
+}

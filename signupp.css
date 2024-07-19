@@ -1,0 +1,299 @@
+.login-signup-item {
+  left: 0;
+  background-color: var(--color-black);
+  width: 1920px;
+}
+.ellipses-icon3,
+.group-child7,
+.login-signup-item {
+  position: absolute;
+  top: 0;
+  height: 1080px;
+}
+.ellipses-icon3 {
+  left: 0;
+  width: 1920px;
+  opacity: 0.5;
+}
+.group-child7 {
+  left: 500px;
+  background-color: var(--color-gray-1500);
+  width: 1420px;
+}
+.cpt8,
+.go8 {
+  position: absolute;
+  width: 61.63%;
+  top: 0;
+  left: 38.37%;
+  display: flex;
+  align-items: flex-end;
+  text-shadow: 2px 0 0#2b3a63, 0 2px 0#2b3a63, -2px 0 0#2b3a63, 0-2px 0#2b3a63;
+}
+.go8 {
+  width: 38.37%;
+  left: 0;
+  color: var(--color-violet);
+  text-shadow: 1px 0 0#f197f4, 0 1px 0#f197f4, -1px 0 0#f197f4, 0-1px 0#f197f4;
+}
+.gocpt-logo6 {
+  position: absolute;
+  height: 8.52%;
+  width: 14.82%;
+  top: 2.04%;
+  right: 29.55%;
+  bottom: 89.44%;
+  left: 55.63%;
+}
+.name2,
+.sign-up4 {
+  position: relative;
+  flex-shrink: 0;
+}
+.sign-up4 {
+  border: 0;
+  outline: 0;
+  font-family: var(--font-jura);
+  font-size: var(--font-size-45xl);
+  background-color: transparent;
+  width: 700px;
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  height: 106px;
+}
+.name2 {
+  width: 675px;
+  display: flex;
+  align-items: flex-end;
+  height: 60px;
+}
+.group-child8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gray-1900);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 700px;
+  height: 65px;
+}
+.name3 {
+  position: absolute;
+  top: 16.3px;
+  left: 19px;
+}
+.rectangle-parent11,
+.signup-page-child,
+.signup-page-inner {
+  width: 700px;
+  position: relative;
+  box-shadow: 0 0 25px #000;
+  backdrop-filter: blur(30px);
+  height: 65px;
+  font-size: var(--font-size-5xl);
+}
+.signup-page-child,
+.signup-page-inner {
+  border: 1px solid var(--color-white);
+  outline: 0;
+  font-family: var(--font-jura);
+  background-color: var(--color-gray-1900);
+  border-radius: var(--br-mini);
+  box-sizing: border-box;
+  padding: var(--padding-base-3) var(--padding-lgi) var(--padding-xl-7);
+  color: var(--color-white);
+}
+.signup-page-inner {
+  padding: 16.5px var(--padding-lgi) var(--padding-mini-5);
+}
+.confirm-password5 {
+  width: 675px;
+  position: relative;
+  color: var(--color-gray-1000);
+  display: flex;
+  align-items: flex-end;
+  height: 60px;
+  flex-shrink: 0;
+}
+.sign-up-child4 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  backdrop-filter: blur(25px);
+  border-radius: var(--br-3xs);
+  background: linear-gradient(180deg, #2b3a63, #b382d3);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  opacity: 0.6;
+}
+.sign-up-child5 {
+  position: absolute;
+  height: 82.61%;
+  width: 85.61%;
+  top: 8.7%;
+  right: 7.19%;
+  bottom: 8.7%;
+  left: 7.19%;
+  
+}
+.sign-up5 {
+  text-decoration: none;
+  width: 139px;
+  position: relative;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+  height: 46px;
+}
+.signup-page1 {
+  position: absolute;
+  top: calc(50% - 408px);
+  left: calc(50% - 141px);
+  box-shadow: 0 0 45px rgba(0, 0, 0, 0.65);
+  backdrop-filter: blur(55px);
+  border-radius: var(--br-31xl);
+  background-color: var(--color-gray-1200);
+  border: 1px solid var(--color-gray-1100);
+  box-sizing: border-box;
+  width: 781.7px;
+  height: 900px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-jura);
+}
+.ellipses-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+}
+.beats-icon3,
+.signupp-item {
+  position: absolute;
+  border-radius: var(--br-11xl);
+}
+.signupp-item {
+  top: 0;
+  left: -920px;
+  backdrop-filter: blur(30px);
+  background-color: var(--color-gray-2000);
+  border: 1px solid var(--color-gray-1100);
+  box-sizing: border-box;
+  width: 1420px;
+  height: 1080px;
+}
+.beats-icon3 {
+  top: -315.7px;
+  left: -2087px;
+  width: 2125.1px;
+  height: 1704px;
+  object-fit: contain;
+  opacity: 0.75;
+}
+.log-in1 {
+  width: 700px;
+  position: relative;
+  font-size: var(--font-size-45xl);
+  text-align: center;
+  display: inline-block;
+  height: 106px;
+  flex-shrink: 0;
+}
+.e-mail-address6 {
+  position: absolute;
+  top: calc(50% - 16.2px);
+  left: 19px;
+}
+.login-child7 {
+  position: absolute;
+  height: 82.61%;
+  width: 81.82%;
+  top: 8.7%;
+  right: 9.09%;
+  bottom: 8.7%;
+  
+}
+.login4 {
+  width: 110px;
+  position: relative;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+  height: 46px;
+}
+.already-have-an1,
+.loginpage1 {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+}
+.loginpage1 {
+  top: calc(50% - 408px);
+  left: -859px;
+  box-shadow: 0 0 45px rgba(0, 0, 0, 0.65);
+  backdrop-filter: blur(55px);
+  border-radius: var(--br-31xl);
+  background-color: var(--color-gray-1200);
+  border: 1px solid var(--color-gray-1100);
+  box-sizing: border-box;
+  width: 780px;
+  height: 900px;
+  flex-direction: column;
+  align-items: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-jura);
+}
+.already-have-an1 {
+  top: 0;
+  left: 0;
+  align-items: flex-end;
+  width: 299px;
+}
+.login5 {
+  text-decoration: none;
+  position: absolute;
+  top: 188px;
+  left: 95px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+  width: 110px;
+  height: 46px;
+}
+.already-have-an-account-group {
+  position: absolute;
+  top: 423px;
+  left: 93px;
+  width: 299px;
+  height: 234px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-jura);
+}
+.gocpt-logo7 {
+  position: absolute;
+  height: 8.52%;
+  width: 14.82%;
+  top: 3.33%;
+  right: 112.63%;
+  bottom: 88.15%;
+  left: -27.45%;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.45);
+}
+.signupp1 {
+  width: 100%;
+  position: relative;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-darkslateblue-100);
+  font-family: var(--font-padyakke-expanded-one);
+}
